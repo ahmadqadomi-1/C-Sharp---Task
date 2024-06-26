@@ -1,7 +1,0 @@
-C:\Users\Orange\source\repos\CSharp_tasks-25-5\CSharp_tasks-25-5\bin\Debug\CSharp_tasks-25-5.exe.config
-C:\Users\Orange\source\repos\CSharp_tasks-25-5\CSharp_tasks-25-5\bin\Debug\CSharp_tasks-25-5.exe
-C:\Users\Orange\source\repos\CSharp_tasks-25-5\CSharp_tasks-25-5\bin\Debug\CSharp_tasks-25-5.pdb
-C:\Users\Orange\source\repos\CSharp_tasks-25-5\CSharp_tasks-25-5\obj\Debug\CSharp_tasks-25-5.csproj.AssemblyReference.cache
-C:\Users\Orange\source\repos\CSharp_tasks-25-5\CSharp_tasks-25-5\obj\Debug\CSharp_tasks-25-5.csproj.CoreCompileInputs.cache
-C:\Users\Orange\source\repos\CSharp_tasks-25-5\CSharp_tasks-25-5\obj\Debug\CSharp_tasks-25-5.exe
-C:\Users\Orange\source\repos\CSharp_tasks-25-5\CSharp_tasks-25-5\obj\Debug\CSharp_tasks-25-5.pdb
