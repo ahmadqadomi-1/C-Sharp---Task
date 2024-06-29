@@ -20,6 +20,10 @@ namespace CSharp_Task_26_6
             int signNumber = int.Parse(Console.ReadLine());
             Console.WriteLine(Math.Sign(signNumber));
 
+            //Console.WriteLine("enter here your Last num phone");
+            //int numPhone = int.Parse(Console.ReadLine());
+            //Console.WriteLine(numPhone[0]);
+
             //Task 3.
             int[] arr = { 0, -1, 4 };
             Array.Sort(arr);
@@ -58,7 +62,7 @@ namespace CSharp_Task_26_6
             Console.WriteLine(elementWord[3].Substring(0, 3));
             Console.WriteLine(elementWord[4].Substring(0, 3));
 
-
+            //ctrl + k + d
 
 
 
