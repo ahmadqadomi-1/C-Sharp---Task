@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task_30_6
 {
+    //Task 5 
     internal class Informations
     {
         public int Age;

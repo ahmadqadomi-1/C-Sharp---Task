@@ -6,8 +6,19 @@ using System.Threading.Tasks;
 
 namespace Task_30_6
 {
+
     internal class Program
     {
+
+
+            public static void Above1950s(int[] years)
+            {
+                for (int i = 0; i < years.Length; i++)
+                {
+                    if (years[i] >= 1950)
+                    Console.WriteLine(years[i]);
+                }
+            }
         static void Main(string[] args)
         {
             Class1 AvNum = new Class1();
@@ -17,6 +28,7 @@ namespace Task_30_6
             double[] numbers = { 1 , 2 , 3  , 4 , 5 , 6 , 7 , 8 , 9 , 10 }; 
             AvNum.AvaSum(numbers);
 
+            Console.WriteLine("------------------------------------------------------");
 
             //Task 2.
 
@@ -27,17 +39,23 @@ namespace Task_30_6
                 AvNum.Cube(i);
             }
 
+            Console.WriteLine("------------------------------------------------------");
+
 
             //Task 3.
 
             int[] arr03 = { 1763, 1972, 1925, 1916, 1984, 1124, 1950, 2020 };
-            AvNum.Above1950s(arr03);
+
+            Above1950s(arr03);
+            Console.WriteLine("------------------------------------------------------");
 
 
             //Task 4.
 
             int Years = 24;
             Console.WriteLine(AvNum.YearsToDay(Years));
+
+            Console.WriteLine("------------------------------------------------------");
 
 
             //Task 5.
